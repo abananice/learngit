@@ -33,11 +33,6 @@ public class Msg {
 		this.result = result;
 		this.message = message;
 	}
-
-	@Override
-	public String toString() {
-		return "Msg [result=" + result + ", message=" + message + "]";
-	}
 	
 	
 	
