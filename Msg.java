@@ -34,6 +34,6 @@ public class Msg {
 		this.message = message;
 	}
 	
-	
+	//注释
 	
 }
